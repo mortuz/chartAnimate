@@ -1,0 +1,29 @@
+{
+  "name": "pictor",
+  "version": "1.0.0",
+  "description": "Pictor is a tool that helps you to create HTML5 elements on HTML5 VIDEO  player.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/norahabsentia/pictorpv-complete.git"
+  },
+  "author": "iDevia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/norahabsentia/pictorpv-complete/issues"
+  },
+  "homepage": "https://github.com/norahabsentia/pictorpv-complete#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.23.7",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-plumber": "^1.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^4.0.1",
+    "gulp-uglify": "^3.0.0"
+  }
+}
